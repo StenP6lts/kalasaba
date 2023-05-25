@@ -18,11 +18,11 @@
 </head>
 <body>
 
-<h2>Image Text</h2>
-<p>How to place text over an image:</p>
+<h2>Tere tulemast</h2>
+<p>Steni veebileht:</p>
 
 <div class="container">
-  <img src="img_snow_wide.jpg" alt="Snow" style="width:100%;">
+  <img src="dog.jpg" alt="Snow" style="width:100%;">
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
